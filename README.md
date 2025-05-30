@@ -1,4 +1,4 @@
-# 🌄 Parallax Adventure Webpage
+# 🌄 Parallax Adventure Webpage https://mountainadventureparallelxeffect.netlify.app/
 
 A visually immersive, responsive parallax scrolling website that highlights the thrill of **Adventure Sports**—featuring **Biking**, **Paragliding**, and **Surfing**. This project demonstrates the use of `3D parallax effects`, fixed backgrounds, and animated scrolling to deliver a rich and engaging user experience.
 
